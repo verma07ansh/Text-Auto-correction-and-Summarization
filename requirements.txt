@@ -1,0 +1,9 @@
+nltk>=3.8.1
+transformers>=4.36.0
+torch>=2.2.0
+flask>=2.0.1
+flask-cors>=3.0.10
+spacy>=3.7.2
+pyspellchecker>=0.7.2
+textblob>=0.17.1
+googletrans>=3.1.0a0
