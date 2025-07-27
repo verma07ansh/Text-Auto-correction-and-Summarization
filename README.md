@@ -410,7 +410,7 @@ graph TB
 ```bash
 # 📥 Clone the repository
 git clone https://github.com/verma07ansh/Text-Auto-correction-and-Summarization.git
-cd text-auto-correction
+cd Text-Auto-correction-and-Summarization
 
 # 📦 Install dependencies
 npm install
